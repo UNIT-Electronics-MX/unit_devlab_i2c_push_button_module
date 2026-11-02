@@ -1,7 +1,5 @@
 # DevLab I2C Push Button Module
 
-**MPN: UE0168**
-
 The DevLab I2C Push Button Module is an I2C push button input module in the UNIT Electronics DevLab family.
 
 <div align="center">
