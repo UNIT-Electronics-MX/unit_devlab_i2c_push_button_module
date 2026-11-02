@@ -28,8 +28,6 @@ The DevLab I2C Push Button Module is an I2C push button input module in the UNIT
 | Available visuals | Product-specific top and bottom board views |
 | Factory I2C Address | `0x30` (7-bit) |
 | DDP Device ID | `0x0110` |
-| Firmware Status | Stable |
-| Firmware .bin Date | 2026-10-21 11:08 CST |
 
 ## Applications
 
