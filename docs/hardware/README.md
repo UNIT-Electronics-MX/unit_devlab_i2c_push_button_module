@@ -29,7 +29,9 @@ A dedicated functional block diagram is not included in the available product-sp
 
 ![DevLab I2C Push Button Module bottom view](resources/unit_btm_v_1_0_ue0168_i2c_push_butom_module_3d.png)
 
-A product-specific electrical schematic is not included in the available files.
+### Schematic
+
+[UE0168 Rev 1.0.0 schematic](unit_sch_v_1_0_0_ue0168_devlab_i2c_push_button_module.pdf)
 
 ## Pinout
 
@@ -67,5 +69,6 @@ The DevLab I2C Push Button Module is an I2C push button input module in the UNIT
 
 - [Product Reference](../docs/hardware/unit_product_reference_v_1_1_0_ue0168_devlab_i2c_push_button_module.pdf)
 - [Product Reference source](../tools/product-reference/README.md)
+- [Electrical schematic](unit_sch_v_1_0_0_ue0168_devlab_i2c_push_button_module.pdf)
 - [English pinout](./unit_pinout_v_1_0_ue0168_i2c_push_button_module_en.pdf)
 - [Spanish pinout](./unit_pinout_v_1_0_ue0168_i2c_push_button_module_es.pdf)
